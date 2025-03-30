@@ -1,0 +1,5 @@
+.next
+node_modules
+
+data/customers.json
+src/pages/answer.tsx
